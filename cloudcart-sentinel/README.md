@@ -20,7 +20,7 @@ An online retailer needs one control plane that can:
 
 ## Demonstrated skills
 
-| Resume capability | Evidence in this repository |
+| Evidence in this repository |
 |---|---|
 | Linux and production support | container health checks, Makefile workflows, runbooks, incident model |
 | AWS and hybrid cloud | Terraform modules for VPC, ECS/Fargate, RDS, ElastiCache, ALB, CloudWatch |
