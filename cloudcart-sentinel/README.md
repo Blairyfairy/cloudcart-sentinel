@@ -117,18 +117,6 @@ docs/                architecture, ADRs, product plan, runbooks
 5. **Evidence-driven product work.** SLO attainment, MTTR, probe latency, and alert deduplication are measurable.
 
 ## Portfolio presentation
-
-A strong interview walkthrough is:
-
-1. Explain the customer problem and SLO.
-2. Start the stack with Docker Compose.
-3. Register a service through Swagger.
-4. Trigger a probe and show the stored result.
-5. Open Prometheus/Grafana metrics.
-6. Show a failing test caught by CI.
-7. Walk through the Terraform and one ADR.
-8. Discuss scaling, tradeoffs, and next roadmap milestone.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
