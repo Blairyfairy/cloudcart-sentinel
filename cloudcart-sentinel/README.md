@@ -4,7 +4,7 @@ A production-style **e-commerce reliability and data operations platform** built
 
 ## Why this project exists
 
-Interviewers often expect a GitHub profile to prove the capabilities listed on a resume. CloudCart Sentinel converts those claims into an inspectable system: a FastAPI service, PostgreSQL data model, Redis caching and rate limiting, asynchronous health checks, Prometheus metrics, structured logging, Docker-based local infrastructure, Terraform for AWS, CI, tests, runbooks, architecture decisions, and a product roadmap.
+CloudCart Sentinel converts those claims into an inspectable system: a FastAPI service, PostgreSQL data model, Redis caching and rate limiting, asynchronous health checks, Prometheus metrics, structured logging, Docker-based local infrastructure, Terraform for AWS, CI, tests, runbooks, architecture decisions, and a product roadmap.
 
 ## Business scenario
 
